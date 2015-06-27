@@ -1,0 +1,1 @@
+Just a simple spring app. Mostly me trying out java, because I havn't done it in an while, and I have not done much java web stuff. I also wanted to just see how the new streams api worked.
